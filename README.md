@@ -1,36 +1,69 @@
-# Math Learning Platform for Smartboards
+# 🎓 Smartboard Student Learning Platform
 
-This project was developed during the Digital Transformation Hackathon (TEKNOFİKİR) with the theme of "Innovative Technologies in Education".
+This project was developed during a Digital Transformation Hackathon under the theme of **Innovative Technologies in Education**.
 
-## Purpose
+It focuses on transforming traditional smartboard usage into a **student-centered, interactive learning environment**.
 
-The aim of this project is to transform traditional smartboard usage into a student-centered interactive learning experience.
 
-## Key Features
+## 🚀 Project Purpose
 
-- Modular component structure
-- Responsive design for different smartboard sizes
-- Ratio-based layout (not fixed pixels)
-- Interactive quiz system
-- Scalable and reusable architecture
+In many classrooms, smartboards are used only as presentation tools.  
+This project aims to redesign that experience by making students active participants in the lesson through interactive digital components.
 
-## Technologies Used
+The goal is to show how technology can support:
+- Active learning
+- Classroom interaction
+- Flexible digital education environments
+- Student engagement instead of passive watching
 
-- React
-- TypeScript
-- Vite
 
-## Development Process
+## 🛠️ Technologies Used
 
-This project was built as a prototype within a 28-hour hackathon to explore innovative approaches to digital learning.
+- React  
+- TypeScript  
+- Vite  
+- Component-Based Architecture  
+- Responsive Design Principles  
 
-## Run Locally
 
-If you want to run this project:
+## 💡 Technical Approach
+
+The platform is built with a **modular and reusable component structure**, allowing it to adapt to different screen sizes such as classroom smartboards.
+
+Instead of fixed pixel layouts, a flexible structure is used to maintain usability across various resolutions.
+
+
+## ⏱️ Development Process
+
+This project was designed and implemented as a **working prototype within a limited-time hackathon**, focusing on:
+- Rapid problem-solving
+- Idea-to-product transformation
+- Team-based development
+- Usability and adaptability
+
+
+## ▶️ Run Locally
+
+To run the project on your computer:
+
+## ▶️ Run Locally
+
+To run the project on your computer:
 
 npm install
 npm run dev
 
-## Note
 
-This project represents a prototype focused on enhancing classroom interaction through smartboard-based learning tools.
+## 📌 Project Status
+This repository represents a prototype developed to demonstrate how smartboards can evolve into interactive learning tools rather than static presentation devices.
+
+Future improvements may include:
+- Student progress tracking
+- Authentication system
+- Expanded interactive lesson modules
+- Mobile compatibility
+---
+
+## 👩‍💻 Developer
+
+Developed by a Computer Engineering student as part of a hackathon experience exploring educational innovation through modern web technologies.
